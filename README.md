@@ -39,6 +39,7 @@ def start_server():
 start_server()
 
 ```
+
 ## Client:
 ```
 import socket
@@ -66,6 +67,7 @@ def start_client():
 start_client()
 ```
 ## OUPUT
+
 ## Server:
 ![image](https://github.com/rakshithaprakashkumar11/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/150994181/fa1ff52e-7953-4a9d-bb4c-90f377e154e4)
 ## Client:
